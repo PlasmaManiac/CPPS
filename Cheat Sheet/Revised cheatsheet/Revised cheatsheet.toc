@@ -1,0 +1,82 @@
+\contentsline {section}{\numberline {1}General Stuff}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Running times}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Template}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Sorting}{2}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Outputting}{2}{subsection.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1}Outputting to a file}{2}{subsubsection.1.4.1}
+\contentsline {subsection}{\numberline {1.5}Miscellaneous tips}{2}{subsection.1.5}
+\contentsline {section}{\numberline {2}Data Structures}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}LinkedList/ArrayDeque (Built in)}{3}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}ListIterator}{3}{subsubsection.2.1.1}
+\contentsline {subsection}{\numberline {2.2}HashSet (Built in)}{3}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}HashSets with custom classes/objects}{3}{subsubsection.2.2.1}
+\contentsline {subsection}{\numberline {2.3}HashMap (Built in)}{3}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}PriorityQueue (Built in)}{3}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}TreeMap/TreeSet (Built in)}{3}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Bitmask (Built in)}{4}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}BigInteger (Built in)}{4}{subsection.2.7}
+\contentsline {subsection}{\numberline {2.8}Union Find Disjoint Set}{4}{subsection.2.8}
+\contentsline {subsection}{\numberline {2.9}Trie}{4}{subsection.2.9}
+\contentsline {subsection}{\numberline {2.10}Binary Indexed Tree (Fenwick Tree)}{5}{subsection.2.10}
+\contentsline {subsubsection}{\numberline {2.10.1}1D}{5}{subsubsection.2.10.1}
+\contentsline {subsubsection}{\numberline {2.10.2}2D}{5}{subsubsection.2.10.2}
+\contentsline {section}{\numberline {3}Basic Math / Number Theory}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Prime numbers}{5}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}isPrime}{5}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Sieve Of Eratosthenes}{5}{subsubsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.3}Prime Factorization}{6}{subsubsection.3.1.3}
+\contentsline {subsection}{\numberline {3.2}Euclidean algorithm (GCD/LCM)}{6}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Extended Euclidean algorithm}{6}{subsubsection.3.2.1}
+\contentsline {subsection}{\numberline {3.3}Combinatorics}{6}{subsection.3.3}
+\contentsline {section}{\numberline {4}Computational Geometry}{6}{section.4}
+\contentsline {subsection}{\numberline {4.1}Point, Line(segment) and Circle}{6}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Common Point/Vector operations}{6}{subsubsection.4.1.1}
+\contentsline {subsection}{\numberline {4.2}Distance}{7}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Intersection}{7}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Line - line intersection}{7}{subsubsection.4.3.1}
+\contentsline {subsection}{\numberline {4.4}Polygon}{7}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}Area}{7}{subsubsection.4.4.1}
+\contentsline {subsubsection}{\numberline {4.4.2}Point inside/outside Polygon}{7}{subsubsection.4.4.2}
+\contentsline {subsubsection}{\numberline {4.4.3}Check If Convex}{8}{subsubsection.4.4.3}
+\contentsline {subsubsection}{\numberline {4.4.4}Centroid (Zwaartepunt)}{8}{subsubsection.4.4.4}
+\contentsline {subsubsection}{\numberline {4.4.5}Graham Scan (2D Convex Hull)}{8}{subsubsection.4.4.5}
+\contentsline {section}{\numberline {5}Graphs}{8}{section.5}
+\contentsline {subsection}{\numberline {5.1}Graph Template}{8}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Depth-first search (DFS)}{8}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Graph-based DFS}{8}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}Grid-based DFS}{8}{subsubsection.5.2.2}
+\contentsline {subsubsection}{\numberline {5.2.3}Connected Components}{9}{subsubsection.5.2.3}
+\contentsline {subsubsection}{\numberline {5.2.4}Tarjan (Strongly Connected Comp.)}{9}{subsubsection.5.2.4}
+\contentsline {subsubsection}{\numberline {5.2.5}Topological sort (DAG)}{9}{subsubsection.5.2.5}
+\contentsline {subsection}{\numberline {5.3}Breadth-first search (BFS)}{9}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Shortest path}{9}{subsection.5.4}
+\contentsline {subsubsection}{\numberline {5.4.1}Dijkstra (single source, positive weight)}{9}{subsubsection.5.4.1}
+\contentsline {subsubsection}{\numberline {5.4.2}Bellman-Ford (negative weight)}{10}{subsubsection.5.4.2}
+\contentsline {subsubsection}{\numberline {5.4.3}Floyd-Warshall (all pairs shortest path)}{10}{subsubsection.5.4.3}
+\contentsline {subsection}{\numberline {5.5}Prim (Minimum Spanning Tree/MST)}{10}{subsection.5.5}
+\contentsline {subsection}{\numberline {5.6}Computing Euler Tour/Path}{10}{subsection.5.6}
+\contentsline {subsection}{\numberline {5.7}Maximum Flow}{11}{subsection.5.7}
+\contentsline {subsubsection}{\numberline {5.7.1}Ford Fulkerson (DFS)}{11}{subsubsection.5.7.1}
+\contentsline {subsubsection}{\numberline {5.7.2}Edmonds Karp (BFS)}{11}{subsubsection.5.7.2}
+\contentsline {subsubsection}{\numberline {5.7.3}Minimum Cost Maximum Flow}{11}{subsubsection.5.7.3}
+\contentsline {subsection}{\numberline {5.8}Bipartite Matching}{12}{subsection.5.8}
+\contentsline {subsection}{\numberline {5.9}Useful theorems/lemmas/tricks}{12}{subsection.5.9}
+\contentsline {section}{\numberline {6}Dynamic Programming (DP)}{12}{section.6}
+\contentsline {subsection}{\numberline {6.1}Knapsack Problem}{12}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Longest Common Subsequence}{12}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Edit Distance (Difference of Strings)}{12}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Coin Counting}{13}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Coin Change}{13}{subsection.6.5}
+\contentsline {subsection}{\numberline {6.6}Subset DP}{13}{subsection.6.6}
+\contentsline {section}{\numberline {7}Miscellaneous Stuff}{13}{section.7}
+\contentsline {subsection}{\numberline {7.1}String Matching (KMP)}{13}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Longest Increasing Subsequence}{13}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Impartial Game Theory}{14}{subsection.7.3}
+\contentsline {subsubsection}{\numberline {7.3.1}Sprague-Grundy Function}{14}{subsubsection.7.3.1}
+\contentsline {section}{\numberline {8}Rare Problems and Solutions}{14}{section.8}
+\contentsline {subsection}{\numberline {8.1}Traveling Salesman Problem (TSP)}{14}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Bitonic TSP}{14}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}2-Satisfiability (2SAT)}{14}{subsection.8.3}
+\contentsline {subsection}{\numberline {8.4}Bracket Matching}{14}{subsection.8.4}
+\contentsline {subsection}{\numberline {8.5}Minimum Vertex Cover}{14}{subsection.8.5}
+\contentsline {subsection}{\numberline {8.6}Stable Marriage}{14}{subsection.8.6}

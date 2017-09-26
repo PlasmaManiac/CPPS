@@ -1,0 +1,16 @@
+\renewcommand{\alg@putlineno} {%
+   \ifthenelse{\boolean{alg@linenums}} {%
+      \ifthenelse{\boolean{alg@nonumber}}{\alg@putlabel{}} {%
+         \alg@putlabel{\arabic{algline}.}}}%
+      {\alg@putlabel{}}}
+      
+\renewcommand{\alginout}[2]{\alg@margin\textit{\alg@inputname. }#1\par
+   \textit{\alg@outputname. }#2\par}
+   
+\renewcommand{\algname}[2]{\alg@margin\textbf{Algorithm }\textsc{#1}(#2)\par} 
+
+\renewcommand{\algforeach}[1]{\textbf{for each} #1\\\algbegin} 
+
+\renewcommand{\algelse}[1]{\textbf{else} #1\\\algbegin}
+
+\newcommand{\algthen}{\textbf{then~}} 

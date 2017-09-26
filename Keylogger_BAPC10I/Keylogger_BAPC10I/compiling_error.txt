@@ -1,0 +1,13 @@
+C:\Users\Luke\Dropbox\Competitive Programming\Keylogger_BAPC10I\Keylogger_BAPC10I\KeyLogger_BAPC10I.cpp: In function 'int main()':
+C:\Users\Luke\Dropbox\Competitive Programming\Keylogger_BAPC10I\Keylogger_BAPC10I\KeyLogger_BAPC10I.cpp:19:7: error: 'list_pos' does not name a type
+  auto list_pos = output.begin();
+       ^
+C:\Users\Luke\Dropbox\Competitive Programming\Keylogger_BAPC10I\Keylogger_BAPC10I\KeyLogger_BAPC10I.cpp:35:6: error: 'list_pos' was not declared in this scope
+      list_pos = output.erase(list_pos);
+      ^
+C:\Users\Luke\Dropbox\Competitive Programming\Keylogger_BAPC10I\Keylogger_BAPC10I\KeyLogger_BAPC10I.cpp:42:5: error: 'list_pos' was not declared in this scope
+     list_pos--;
+     ^
+C:\Users\Luke\Dropbox\Competitive Programming\Keylogger_BAPC10I\Keylogger_BAPC10I\KeyLogger_BAPC10I.cpp:70:22: warning: range-based 'for' loops only available with -std=c++11 or -std=gnu++11
+   for (char letter : output)
+                      ^

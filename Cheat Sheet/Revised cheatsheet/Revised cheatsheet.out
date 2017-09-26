@@ -1,0 +1,82 @@
+\BOOKMARK [1][-]{section.1}{General Stuff}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Running times}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Template}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Sorting}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Outputting}{section.1}% 5
+\BOOKMARK [3][-]{subsubsection.1.4.1}{Outputting to a file}{subsection.1.4}% 6
+\BOOKMARK [2][-]{subsection.1.5}{Miscellaneous tips}{section.1}% 7
+\BOOKMARK [1][-]{section.2}{Data Structures}{}% 8
+\BOOKMARK [2][-]{subsection.2.1}{LinkedList/ArrayDeque \(Built in\)}{section.2}% 9
+\BOOKMARK [3][-]{subsubsection.2.1.1}{ListIterator}{subsection.2.1}% 10
+\BOOKMARK [2][-]{subsection.2.2}{HashSet \(Built in\)}{section.2}% 11
+\BOOKMARK [3][-]{subsubsection.2.2.1}{HashSets with custom classes/objects}{subsection.2.2}% 12
+\BOOKMARK [2][-]{subsection.2.3}{HashMap \(Built in\)}{section.2}% 13
+\BOOKMARK [2][-]{subsection.2.4}{PriorityQueue \(Built in\)}{section.2}% 14
+\BOOKMARK [2][-]{subsection.2.5}{TreeMap/TreeSet \(Built in\)}{section.2}% 15
+\BOOKMARK [2][-]{subsection.2.6}{Bitmask \(Built in\)}{section.2}% 16
+\BOOKMARK [2][-]{subsection.2.7}{BigInteger \(Built in\)}{section.2}% 17
+\BOOKMARK [2][-]{subsection.2.8}{Union Find Disjoint Set}{section.2}% 18
+\BOOKMARK [2][-]{subsection.2.9}{Trie}{section.2}% 19
+\BOOKMARK [2][-]{subsection.2.10}{Binary Indexed Tree \(Fenwick Tree\)}{section.2}% 20
+\BOOKMARK [3][-]{subsubsection.2.10.1}{1D}{subsection.2.10}% 21
+\BOOKMARK [3][-]{subsubsection.2.10.2}{2D}{subsection.2.10}% 22
+\BOOKMARK [1][-]{section.3}{Basic Math / Number Theory}{}% 23
+\BOOKMARK [2][-]{subsection.3.1}{Prime numbers}{section.3}% 24
+\BOOKMARK [3][-]{subsubsection.3.1.1}{isPrime}{subsection.3.1}% 25
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Sieve Of Eratosthenes}{subsection.3.1}% 26
+\BOOKMARK [3][-]{subsubsection.3.1.3}{Prime Factorization}{subsection.3.1}% 27
+\BOOKMARK [2][-]{subsection.3.2}{Euclidean algorithm \(GCD/LCM\)}{section.3}% 28
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Extended Euclidean algorithm}{subsection.3.2}% 29
+\BOOKMARK [2][-]{subsection.3.3}{Combinatorics}{section.3}% 30
+\BOOKMARK [1][-]{section.4}{Computational Geometry}{}% 31
+\BOOKMARK [2][-]{subsection.4.1}{Point, Line\(segment\) and Circle}{section.4}% 32
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Common Point/Vector operations}{subsection.4.1}% 33
+\BOOKMARK [2][-]{subsection.4.2}{Distance}{section.4}% 34
+\BOOKMARK [2][-]{subsection.4.3}{Intersection}{section.4}% 35
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Line - line intersection}{subsection.4.3}% 36
+\BOOKMARK [2][-]{subsection.4.4}{Polygon}{section.4}% 37
+\BOOKMARK [3][-]{subsubsection.4.4.1}{Area}{subsection.4.4}% 38
+\BOOKMARK [3][-]{subsubsection.4.4.2}{Point inside/outside Polygon}{subsection.4.4}% 39
+\BOOKMARK [3][-]{subsubsection.4.4.3}{Check If Convex}{subsection.4.4}% 40
+\BOOKMARK [3][-]{subsubsection.4.4.4}{Centroid \(Zwaartepunt\)}{subsection.4.4}% 41
+\BOOKMARK [3][-]{subsubsection.4.4.5}{Graham Scan \(2D Convex Hull\)}{subsection.4.4}% 42
+\BOOKMARK [1][-]{section.5}{Graphs}{}% 43
+\BOOKMARK [2][-]{subsection.5.1}{Graph Template}{section.5}% 44
+\BOOKMARK [2][-]{subsection.5.2}{Depth-first search \(DFS\)}{section.5}% 45
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Graph-based DFS}{subsection.5.2}% 46
+\BOOKMARK [3][-]{subsubsection.5.2.2}{Grid-based DFS}{subsection.5.2}% 47
+\BOOKMARK [3][-]{subsubsection.5.2.3}{Connected Components}{subsection.5.2}% 48
+\BOOKMARK [3][-]{subsubsection.5.2.4}{Tarjan \(Strongly Connected Comp.\)}{subsection.5.2}% 49
+\BOOKMARK [3][-]{subsubsection.5.2.5}{Topological sort \(DAG\)}{subsection.5.2}% 50
+\BOOKMARK [2][-]{subsection.5.3}{Breadth-first search \(BFS\)}{section.5}% 51
+\BOOKMARK [2][-]{subsection.5.4}{Shortest path}{section.5}% 52
+\BOOKMARK [3][-]{subsubsection.5.4.1}{Dijkstra \(single source, positive weight\)}{subsection.5.4}% 53
+\BOOKMARK [3][-]{subsubsection.5.4.2}{Bellman-Ford \(negative weight\)}{subsection.5.4}% 54
+\BOOKMARK [3][-]{subsubsection.5.4.3}{Floyd-Warshall \(all pairs shortest path\)}{subsection.5.4}% 55
+\BOOKMARK [2][-]{subsection.5.5}{Prim \(Minimum Spanning Tree/MST\)}{section.5}% 56
+\BOOKMARK [2][-]{subsection.5.6}{Computing Euler Tour/Path}{section.5}% 57
+\BOOKMARK [2][-]{subsection.5.7}{Maximum Flow}{section.5}% 58
+\BOOKMARK [3][-]{subsubsection.5.7.1}{Ford Fulkerson \(DFS\)}{subsection.5.7}% 59
+\BOOKMARK [3][-]{subsubsection.5.7.2}{Edmonds Karp \(BFS\)}{subsection.5.7}% 60
+\BOOKMARK [3][-]{subsubsection.5.7.3}{Minimum Cost Maximum Flow}{subsection.5.7}% 61
+\BOOKMARK [2][-]{subsection.5.8}{Bipartite Matching}{section.5}% 62
+\BOOKMARK [2][-]{subsection.5.9}{Useful theorems/lemmas/tricks}{section.5}% 63
+\BOOKMARK [1][-]{section.6}{Dynamic Programming \(DP\)}{}% 64
+\BOOKMARK [2][-]{subsection.6.1}{Knapsack Problem}{section.6}% 65
+\BOOKMARK [2][-]{subsection.6.2}{Longest Common Subsequence}{section.6}% 66
+\BOOKMARK [2][-]{subsection.6.3}{Edit Distance \(Difference of Strings\)}{section.6}% 67
+\BOOKMARK [2][-]{subsection.6.4}{Coin Counting}{section.6}% 68
+\BOOKMARK [2][-]{subsection.6.5}{Coin Change}{section.6}% 69
+\BOOKMARK [2][-]{subsection.6.6}{Subset DP}{section.6}% 70
+\BOOKMARK [1][-]{section.7}{Miscellaneous Stuff}{}% 71
+\BOOKMARK [2][-]{subsection.7.1}{String Matching \(KMP\)}{section.7}% 72
+\BOOKMARK [2][-]{subsection.7.2}{Longest Increasing Subsequence}{section.7}% 73
+\BOOKMARK [2][-]{subsection.7.3}{Impartial Game Theory}{section.7}% 74
+\BOOKMARK [3][-]{subsubsection.7.3.1}{Sprague-Grundy Function}{subsection.7.3}% 75
+\BOOKMARK [1][-]{section.8}{Rare Problems and Solutions}{}% 76
+\BOOKMARK [2][-]{subsection.8.1}{Traveling Salesman Problem \(TSP\)}{section.8}% 77
+\BOOKMARK [2][-]{subsection.8.2}{Bitonic TSP}{section.8}% 78
+\BOOKMARK [2][-]{subsection.8.3}{2-Satisfiability \(2SAT\)}{section.8}% 79
+\BOOKMARK [2][-]{subsection.8.4}{Bracket Matching}{section.8}% 80
+\BOOKMARK [2][-]{subsection.8.5}{Minimum Vertex Cover}{section.8}% 81
+\BOOKMARK [2][-]{subsection.8.6}{Stable Marriage}{section.8}% 82

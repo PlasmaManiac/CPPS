@@ -1,0 +1,943 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.7.16)  15 JUN 2016 12:31
+entering extended mode
+**Revised*cheatsheet.tex
+
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\Revised cheats
+heet.tex"
+LaTeX2e <2014/05/01>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, french, dutch, loaded.
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\a4wide\a4wide.sty"
+Package: a4wide 1994/08/30
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ntgclass\a4.sty"
+Package: a4 2004/04/15 v1.2g A4 based page layout
+))
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
+x.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.
+sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
+s.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.st
+y"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphic
+s.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pdfte
+x.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwa
+rerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcm
+ds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb
+.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfont
+s.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\alg\alg.sty"
+Package: alg 2001/02/12
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+) ("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.st
+y"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\algleftmarginwidth=\skip52
+\algrightmarginwidth=\skip53
+\alglinenowidth=\skip54
+\algtabwidth=\skip55
+\alg@fromleft=\skip56
+\alg@tmplen=\skip57
+\alg@tmpbox=\box28
+\c@alg@inmargin=\count89
+\c@algline=\count90
+\@float@every@algorithmfloat=\toks18
+\c@algorithmfloat=\count91
+) ("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\modalg.sty")
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen105
+\WF@size=\dimen106
+\c@WF@wrappedlines=\count92
+\WF@box=\box29
+\WF@everypar=\toks19
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.
+sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.
+sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.s
+ty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks20
+\ex@=\dimen107
+))
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.s
+ty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen108
+)
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.s
+ty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen109
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip10
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks21
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks22
+\eqnshift@=\dimen110
+\alignsep@=\dimen111
+\tagshift@=\dimen112
+\tagwidth@=\dimen113
+\totwidth@=\dimen114
+\lineht@=\dimen115
+\@envbody=\toks23
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count105
+\lst@gtempboxa=\box32
+\lst@token=\toks25
+\lst@length=\count106
+\lst@currlwidth=\dimen116
+\lst@column=\count107
+\lst@pos=\count108
+\lst@lostspace=\dimen117
+\lst@width=\dimen118
+\lst@newlines=\count109
+\lst@lineno=\count110
+\lst@maxwidth=\dimen119
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
+\c@lstnumber=\count111
+\lst@skipnumbers=\count112
+\lst@framebox=\box33
+)
+(C:\ProgramData\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2003/08/13 1.1a listings configuration
+))
+Package: listings 2014/03/04 1.5c (Carsten Heinz)
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.
+sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip61
+\LTright=\skip62
+\LTpre=\skip63
+\LTpost=\skip64
+\LTchunksize=\count113
+\LTcapwidth=\dimen120
+\LT@head=\box34
+\LT@firsthead=\box35
+\LT@foot=\box36
+\LT@lastfoot=\box37
+\LT@cols=\count114
+\LT@rows=\count115
+\c@LT@tables=\count116
+\c@LT@chunks=\count117
+\LT@p@ftn=\toks26
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\hanging\hanging.sty"
+Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
+\h@ngcommawd=\skip65
+\h@ngfstopwd=\skip66
+\h@ngquotewd=\skip67
+\h@ngdquotewd=\skip68
+\h@ngquerywd=\skip69
+\h@ngexclwd=\skip70
+\h@ngcolonwd=\skip71
+\h@ngscolonwd=\skip72
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip73
+\enit@outerparindent=\dimen121
+\enit@toks=\toks27
+\enit@inbox=\box38
+\enitdp@description=\count118
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tabto\tabto.sty"
+Package: tabto 2013/03/25  v 1.3  Another tabbing mechanism
+\CurrentLineWidth=\dimen122
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen123
+\captionmargin@=\dimen124
+\captionwidth=\dimen125
+\caption@tempdima=\dimen126
+\caption@indent=\dimen127
+\caption@parindent=\dimen128
+\caption@hangindent=\dimen129
+)
+\c@ContinuedFloat=\count119
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
+Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
+)
+Package caption Info: wrapfig package is loaded.
+)
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopd
+f.sty"
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopd
+f-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.
+sty"
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdef
+inekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptio
+ns.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvset
+keys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexc
+mds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\iflua
+tex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdfte
+xcmds.sty"
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf
+.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\tocloft\tocloft.sty"
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 44.
+\cftparskip=\skip74
+\cftbeforetoctitleskip=\skip75
+\cftaftertoctitleskip=\skip76
+\cftbeforepartskip=\skip77
+\cftpartnumwidth=\skip78
+\cftpartindent=\skip79
+\cftbeforesecskip=\skip80
+\cftsecindent=\skip81
+\cftsecnumwidth=\skip82
+\cftbeforesubsecskip=\skip83
+\cftsubsecindent=\skip84
+\cftsubsecnumwidth=\skip85
+\cftbeforesubsubsecskip=\skip86
+\cftsubsubsecindent=\skip87
+\cftsubsubsecnumwidth=\skip88
+\cftbeforeparaskip=\skip89
+\cftparaindent=\skip90
+\cftparanumwidth=\skip91
+\cftbeforesubparaskip=\skip92
+\cftsubparaindent=\skip93
+\cftsubparanumwidth=\skip94
+\cftbeforeloftitleskip=\skip95
+\cftafterloftitleskip=\skip96
+\cftbeforefigskip=\skip97
+\cftfigindent=\skip98
+\cftfignumwidth=\skip99
+\c@lofdepth=\count120
+\c@lotdepth=\count121
+\cftbeforelottitleskip=\skip100
+\cftafterlottitleskip=\skip101
+\cftbeforetabskip=\skip102
+\cfttabindent=\skip103
+\cfttabnumwidth=\skip104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\lastpage\lastpage.sty"
+Package: lastpage 2013/01/28 v1.2l Refers to last page's name (HMM; JPG)
+)
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.s
+ty"
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\color.c
+fg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 142.
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\dvipsna
+m.def"
+File: dvipsnam.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+))
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometr
+y.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvte
+x.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxete
+x.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count122
+\Gm@cntv=\count123
+\c@Gm@tempcnt=\count124
+\Gm@bindingoffset=\dimen130
+\Gm@wd@mp=\dimen131
+\Gm@odd@mp=\dimen132
+\Gm@even@mp=\dimen133
+\Gm@layoutwidth=\dimen134
+\Gm@layoutheight=\dimen135
+\Gm@layouthoffset=\dimen136
+\Gm@layoutvoffset=\dimen137
+\Gm@dimlist=\toks28
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometr
+y.cfg"))
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.s
+ty"
+Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
+\c@tracingmulticols=\count125
+\mult@box=\box39
+\multicol@leftmargin=\dimen138
+\c@unbalance=\count126
+\c@collectmore=\count127
+\doublecol@number=\count128
+\multicoltolerance=\count129
+\multicolpretolerance=\count130
+\full@width=\dimen139
+\page@free=\dimen140
+\premulticols=\dimen141
+\postmulticols=\dimen142
+\multicolsep=\skip105
+\multicolbaselineskip=\skip106
+\partial@page=\box40
+\last@line=\box41
+\maxbalancingoverflow=\dimen143
+\mult@rightbox=\box42
+\mult@grightbox=\box43
+\mult@gfirstbox=\box44
+\mult@firstbox=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\c@columnbadness=\count131
+\c@finalcolumnbadness=\count132
+\last@try=\dimen144
+\multicolovershoot=\dimen145
+\multicolundershoot=\dimen146
+\mult@nat@firstbox=\box63
+\colbreak@box=\box64
+\mc@col@check@num=\count133
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\ms\multitoc.sty"
+Package: multitoc 1999/06/08 v2.01 MultiToc Package (MS)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box65
+\beforetitleunit=\skip107
+\aftertitleunit=\skip108
+\ttl@plus=\dimen147
+\ttl@minus=\dimen148
+\ttl@toksa=\toks29
+\titlewidth=\dimen149
+\titlewidthlast=\dimen150
+\titlewidthfirst=\dimen151
+)
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperre
+f.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsu
+b-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsu
+b-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook
+.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen152
+\Hy@linkcounter=\count134
+\Hy@pagecounter=\count135
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.
+def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count136
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperre
+f.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count137
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen153
+\Fld@menulength=\count138
+\Field@Width=\dimen154
+\Fld@charsize=\dimen155
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count139
+\c@Item=\count140
+\c@Hfootnote=\count141
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex
+.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count142
+\c@bookmark@seq@number=\count143
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfi
+lecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip109
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2014/03/04 1.5c listings language file
+)
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\Revised cheats
+heet.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count144
+\scratchdimen=\dimen156
+\scratchbox=\box66
+\nofMPsegments=\count145
+\nofMParguments=\count146
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count147
+\MPscratchDim=\dimen157
+\MPnumerator=\count148
+\makeMPintoPDFobject=\count149
+\everyMPtoPDFconversion=\toks31
+)
+\c@lstlisting=\count150
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             http://www.ctan.org/tex-archive/ 
+(lastpage)             macros/latex/contrib/pageslts/ 
+(lastpage)             or
+(lastpage)             http://www.ctan.org/tex-archive/ 
+(lastpage)             install/macros/latex/contrib/pageslts.tds.zip
+(lastpage)             ! on input line 113.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(36.98866pt, 523.53055pt, 36.98866pt)
+* v-part:(T,H,B)=(56.9055pt, 765.37906pt, 22.76228pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=523.53055pt
+* \textheight=765.37906pt
+* \oddsidemargin=-35.28133pt
+* \evensidemargin=-35.28133pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=7.11317pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=54.2025pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box67
+Package hyperref Info: Link coloring OFF on input line 113.
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref
+.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\getti
+tlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count151
+)
+LaTeX Info: Redefining \ref on input line 113.
+LaTeX Info: Redefining \pageref on input line 113.
+LaTeX Info: Redefining \nameref on input line 113.
+
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\Revised cheats
+heet.out")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\Revised cheats
+heet.out")
+\@outlinefile=\write3
+LaTeX Font Info:    Try loading font information for U+msa on input line 115.
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 115.
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\Revised cheats
+heet.toc")
+\tf@toc=\write4
+ [1{C:/Users/s142589/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+]
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/Template.
+java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/Sorting2.
+java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/OutputFil
+e.java")
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 158.
+
+
+("C:\Users\s142589\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 158.
+
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/Rounding.
+java") [2]
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][]
+ []
+
+
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/HashSetRe
+ad.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/HashSetCu
+stom.java")
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <9> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 221.
+
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/PriorityQ
+ueueSort.java")
+Underfull \hbox (badness 5475) in paragraph at lines 254--261
+\OT1/cmr/bx/n/10 TreeSet: [][][][][][][][][][]\OT1/cmr/m/n/10 , [][][][][][][][
+][][], [][][][][][][][][][], [][][]
+ []
+
+[3]
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/UnionFind
+.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/Tries.jav
+a" [4])
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/BinaryInd
+exedTree1D.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/BinaryInd
+exedTree2D.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/isPrime.j
+ava")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/SieveOfEr
+atosthenes.java") [5]
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/PrimeFact
+ors.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/GCD.java"
+)
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/GCDExtend
+ed.java")
+Underfull \hbox (badness 10000) in paragraph at lines 393--399
+
+ []
+
+
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/Point.jav
+a")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/PointComm
+on.java" [6])
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/GeometryD
+ist.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/LineInter
+section.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/PolygonAr
+ea.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/PolygonIn
+Out.java") [7]
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/PolygonIs
+Convex.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/PolygonCe
+ntroid.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/GrahamSca
+n.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/GraphTemp
+late.java")
+Package epstopdf Info: Source file: <figures/dfsvisit.eps>
+(epstopdf)                    date: 2015-10-19 18:25:22
+(epstopdf)                    size: 24402 bytes
+(epstopdf)             Output file: <figures/dfsvisit-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-10-19 18:26:20
+(epstopdf)                    size: 5440 bytes
+(epstopdf)             Command: <epstopdf --outfile=figures/dfsvisit-eps-conver
+ted-to.pdf figures/dfsvisit.eps>
+(epstopdf)             \includegraphics on input line 468.
+Package epstopdf Info: Output file is already uptodate.
+
+<figures/dfsvisit-eps-converted-to.pdf, id=866, 226.8475pt x 100.375pt>
+File: figures/dfsvisit-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/dfsvisit-eps-converted-to.pdf>
+Package pdftex.def Info: figures/dfsvisit-eps-converted-to.pdf used on input li
+ne 468.
+(pdftex.def)             Requested size: 157.06076pt x 69.4962pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 462--470
+
+ []
+
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/DFS.java"
+)
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/DFSGrid.j
+ava" [8 <C:/Users/s142589/Google Drive/[CPPS] 386491/Revised cheatsheet/figures
+/dfsvisit-eps-converted-to.pdf>])
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/DFSConnec
+tedComponents.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/Tarjan.ja
+va")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/DFSTopolo
+gicalSort.java")
+Package epstopdf Info: Source file: <figures/bfsvisit.eps>
+(epstopdf)                    date: 2015-10-19 18:25:56
+(epstopdf)                    size: 24404 bytes
+(epstopdf)             Output file: <figures/bfsvisit-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-10-19 18:26:20
+(epstopdf)                    size: 5440 bytes
+(epstopdf)             Command: <epstopdf --outfile=figures/bfsvisit-eps-conver
+ted-to.pdf figures/bfsvisit.eps>
+(epstopdf)             \includegraphics on input line 507.
+Package epstopdf Info: Output file is already uptodate.
+
+<figures/bfsvisit-eps-converted-to.pdf, id=967, 226.8475pt x 100.375pt>
+File: figures/bfsvisit-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/bfsvisit-eps-converted-to.pdf>
+Package pdftex.def Info: figures/bfsvisit-eps-converted-to.pdf used on input li
+ne 507.
+(pdftex.def)             Requested size: 157.06076pt x 69.4962pt.
+
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/BFS.java"
+)
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/Dijkstra.
+java" [9 <C:/Users/s142589/Google Drive/[CPPS] 386491/Revised cheatsheet/figure
+s/bfsvisit-eps-converted-to.pdf>])
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/BellmanFo
+rd.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/BellmanFo
+rdCycle.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/FloydWars
+hall.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/Prim.java
+")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/Euler.jav
+a" [10])
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/MaxFlow.j
+ava")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/MaxFlowFo
+rdFulkerson.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/MaxFlowEd
+mondsKarp.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/MinCostFl
+ow.java") [11]
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/Bipartite
+Matching.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/Knapsack.
+java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/LongestCo
+mmonSubsequence.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/EditDista
+nce.java" [12])
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/CoinCount
+DP.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/CoinChang
+e.java")
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/KMP.java"
+)
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\code/LongestIn
+creasingSubsequence.java" [13])
+Overfull \hbox (15.37343pt too wide) detected at line 710
+\OML/cmm/m/it/10 dp\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 i; j\OT1/cmr/m/n/10 ] = []
+
+ []
+
+
+Overfull \vbox (15.72066pt too high) has occurred while \output is active []
+
+
+[14] 
+AED: lastpage setting LastPage
+[15]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 730.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 730.
+
+("C:\Users\s142589\Google Drive\[CPPS] 386491\Revised cheatsheet\Revised cheats
+heet.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 730.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 730.
+Package rerunfilecheck Info: File `Revised*cheatsheet.out' has not changed.
+(rerunfilecheck)             Checksum: <no file>.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 730.
+ ) 
+Here is how much of TeX's memory you used:
+ 12528 strings out of 495271
+ 194120 string characters out of 3181478
+ 841188 words of memory out of 3000000
+ 14315 multiletter control sequences out of 15000+200000
+ 13557 words of font info for 53 fonts, out of 3000000 for 9000
+ 54 hyphenation exceptions out of 8191
+ 42i,12n,43p,509b,2154s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/s142589/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/s142589/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb><C:/Users/s142589/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/s142589/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmitt10.pfb><C:/Users/s14258
+9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+C:/Users/s142589/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmmi7.pfb><C:/Users/s142589/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb><C:/Users/s142589/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/s142589/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/s142589/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/s1
+42589/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10
+.pfb><C:/Users/s142589/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb><C:/Users/s142589/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy7.pfb><C:/Users/s142589/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/s142589/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/s1425
+89/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb><
+C:/Users/s142589/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+symbols/msbm10.pfb>
+Output written on "Revised cheatsheet.pdf" (15 pages, 527191 bytes).
+PDF statistics:
+ 1767 PDF objects out of 2073 (max. 8388607)
+ 1060 named destinations out of 1200 (max. 500000)
+ 667 words of extra memory for PDF output out of 10000 (max. 10000000)
+

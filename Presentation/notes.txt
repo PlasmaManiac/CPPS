@@ -1,0 +1,29 @@
+	Polynim
+	
+
+Introduction to Polynomial Interpolation:
+
+	Explanation of what Polynomial Interpolation is,  and some of its 
+	applications:
+		Data "prediction ??":
+		Function reconstruction:
+		
+	A simple example of how you can create a Longrangian and Newtownian
+	
+Applcations:
+	Shamir Secret Sharing
+		With Example on how to share 
+
+	Newton-Cotes Formula
+
+	Bernstein Polynomial
+		- Vector Graphics
+
+	Toom-Cook Multiplication
+
+APPENDIX:
+
+	Effect of having too many polynomial terms - explain the limitations.
+	Fourier Series/Transform:
+
+Regressonn Fitting
